@@ -4,4 +4,4 @@ https://forms.gle/CH6tGxab7J5U2poWA
 <br>
 Apostilas<br>
 Noçoes de Robótica<br>
-[https://drive.google.com/file/d/1V_qz8LEXMVPILEFyUb6eSXE6CUNk_IEY/view?usp=sharing](https://l1nk.dev/iy4zK)
+https://drive.google.com/file/d/1V_qz8LEXMVPILEFyUb6eSXE6CUNk_IEY/view?usp=drive_link
