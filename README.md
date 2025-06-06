@@ -11,5 +11,10 @@ https://forms.gle/CH6tGxab7J5U2poWA
     Programação Orientada à Objetos<br>
     https://drive.google.com/file/d/1Tb-dy-X7s-xB34QdKBr3xrZloS8MRaIb/view?usp=sharing
 </p>
+<p>
+    Gestão de Startup I<br>
+    https://drive.google.com/file/d/1zdCROH_CHp-fEgxCxcZhAD3pBEMLkhyY/view?usp=drive_link
+</p>
+
 
 
