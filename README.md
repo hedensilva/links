@@ -1,5 +1,24 @@
 # links
-<p>2025</p><hr>
+<p>2025</p>
+<hr>
+<p>GESTÃO DE STARTUP II</p>
+<p>
+    5 passos essenciais para criar sua persona<br>
+    https://rockcontent.com/br/blog/personas/
+</p>
+<p>
+    O que é persona e como criar uma para o seu negócio:<br>
+    https://www.surfedigital.io/blog/o-que-e-persona
+</p>
+<p>
+    Proposta de valor, o que é e como criar a proposta perfeita para o se cliente:<br>
+    https://rockcontent.com/br/blog/proposta-de-valor
+</p>
+<p>
+    Proposta de valor, o que é, como fazer e cinco exemplos:<br>
+    https://www.youtube.com/watch?v=ukSBRtsyiYs
+</p>
+<hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
     https://forms.gle/WsBzbWaQXPLiFU9s6
