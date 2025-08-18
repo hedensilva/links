@@ -1,5 +1,5 @@
 # links
-<p>2025</p>
+<p>2025</p><hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
     https://forms.gle/WsBzbWaQXPLiFU9s6
