@@ -18,6 +18,18 @@
     Proposta de valor, o que é, como fazer e cinco exemplos:<br>
     https://www.youtube.com/watch?v=ukSBRtsyiYs
 </p>
+<p>
+    Canvas Proposta de Valor I:<br>
+    https://leads2b.com/blog/proposta-de-valor/
+</p>
+<p>
+    Canvas Proposta de Valor II<br>
+    https://www.playstudio.io/blog/canvas-proposta-de-valor
+</p>
+<p>
+    Quadro de proposta de valor editável<br>
+    https://edit.org/edit/all/3kvys64ku7wg8wcc
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
