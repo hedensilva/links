@@ -30,6 +30,14 @@
     Quadro de proposta de valor editável<br>
     https://edit.org/edit/all/3kvys64ku7wg8wcc
 </p>
+<p>
+    O que é Business Model Canvas e como aplicá-lo no seu negócio?<br>
+    https://institutolegado.org/blog/modelagem-de-negocios-por-onde-comecar/
+</p>
+<p>
+    Business Model Canvas<br>
+    https://businessmodelanalyst.com/pt/business-model-canvas/
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
