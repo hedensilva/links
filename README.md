@@ -38,6 +38,14 @@
     Business Model Canvas<br>
     https://businessmodelanalyst.com/pt/business-model-canvas/
 </p>
+<p>
+    Como vender um produto<br>
+    https://www.hostgator.com.br/blog/dicas-para-vender-produto/
+</p>
+<p>
+    COMO VENDER<br>
+    https://www.youtube.com/watch?v=qWSzguf5mZ4
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
