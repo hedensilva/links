@@ -46,6 +46,26 @@
     COMO VENDER<br>
     https://www.youtube.com/watch?v=qWSzguf5mZ4
 </p>
+<p>
+    O que é validação<br>
+    https://abstartups.com.br/validacao-como-verificar-se-a-sua-ideia-e-viavel-no-mercado/
+</p>
+<p>
+    Como validar uma ideia de negócio sem enrolação - Evolve<br>
+    https://evolvemvp.com/como-validar-uma-ideia/
+</p>
+<p>
+    como validar uma ideia de negócio com pesquisa de mercado<br>
+    https://blog.opinionbox.com/como-validar-uma-ideia/
+</p>
+<p>
+    como validar dados de pesquisa quantitativa<br>
+    https://blog.opinionbox.com/analise-de-dados-validar-dados-de-pesquisa/
+</p>
+<p>
+    Cartão de Aprendizado - Sebrae:<br>
+    https://www.youtube.com/watch?v=qWSzguf5mZ4
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
