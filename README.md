@@ -55,11 +55,11 @@
     https://evolvemvp.com/como-validar-uma-ideia/
 </p>
 <p>
-    como validar uma ideia de negócio com pesquisa de mercado<br>
+    Como validar uma ideia de negócio com pesquisa de mercado<br>
     https://blog.opinionbox.com/como-validar-uma-ideia/
 </p>
 <p>
-    como validar dados de pesquisa quantitativa<br>
+    Como validar dados de pesquisa quantitativa<br>
     https://blog.opinionbox.com/analise-de-dados-validar-dados-de-pesquisa/
 </p>
 <p>
