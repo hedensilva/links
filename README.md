@@ -70,6 +70,10 @@
     Testes de validação: essenciais para o seu negócio: <br>
     https://www.inovacaosebraeminas.com.br/artigo/testes-de-validacao-essenciais-para-o-seu-negocio
 </p>
+<p>
+    Formulário para cadastrar link do Questionário de Validação: <br>
+    https://forms.gle/R1M52LnEHJAzN5D48
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
