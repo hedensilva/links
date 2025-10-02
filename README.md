@@ -66,6 +66,10 @@
     Cartão de Aprendizado - Sebrae:<br>
     https://www.youtube.com/watch?v=qWSzguf5mZ4
 </p>
+<p>
+    Testes de validação: essenciais para o seu negócio: <br>
+    https://www.inovacaosebraeminas.com.br/artigo/testes-de-validacao-essenciais-para-o-seu-negocio
+</p>
 <hr>
 <p>
     Fomulário para cadastro de equipes e tema da disciplina Gestão de Startup II<br>
